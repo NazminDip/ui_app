@@ -1,0 +1,1 @@
+const colorb = #FFFFFF;
